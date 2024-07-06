@@ -1,8 +1,8 @@
-# Install expo cli globally
- npm install -g expo-cli
+# Install Expo CLI globally
+npm install -g expo-cli
 
 # Install dependencies
- run npm i in the client folder
+Run `npm i` in the client folder
 
-# Run expo go on your device/emulator
- npx expo start
+# Run Expo on your device/emulator (first, install Expo Go on your phone)
+npx expo start
