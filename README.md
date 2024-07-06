@@ -1,5 +1,5 @@
 # Install Expo CLI globally
-npm install -g expo-cli
+`npm i -g expo-cli`
 
 # Install dependencies
 Run `npm i` in the client folder
