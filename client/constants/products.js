@@ -1,3 +1,5 @@
+// Here we are going to store all the static content, such as long texts that are located in various parts of the application. To then import them into the components and maintain readable code.
+
 export const products = [
 	{
 		title: 'iPhone 13 Pro Max',
