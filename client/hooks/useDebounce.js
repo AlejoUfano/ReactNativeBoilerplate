@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react'
 
 // Example of a custom debounce hook.
 
-function useDebounce(value, delay) {
+const useDebounce = (value, delay) => {
 	const [debouncedValue, setDebouncedValue] = useState(value)
 
 	useEffect(() => {
